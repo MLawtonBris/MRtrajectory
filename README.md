@@ -5,6 +5,6 @@ We are interested in carrying out two sample Mendelian Randomisation (MR) to tes
 
 In this repository we carry out a simulation study for a multivariate method to carry out two sample MR using multivariate meta-analysis which is often used in meta-analysis of diagnostic studies when researchers are interested in both the sensitivity and specificity of a test. Our aim is to examine bias and coverage of both separate and joint confidence intervals using this approach along with a naive approach that carrys out the MR separately on the intercept and slope.
 
-The files XXX contain the STATA do-files to run the simulations.  These simulations were carried out using STATA 17.
+The files Simulation_ver*_* contain the STATA do-files to run the simulations.  These simulations were carried out using STATA 17.
 
 
