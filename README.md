@@ -13,5 +13,5 @@ The "Naive_GLM_vs_mvmeta_summarise_results_tables_2_and_3.do" summarises the res
 
 The "Naive_GLM_vs_mvmeta_joint_coverage.do" calculates the joint coverage of the different approaches.  That is constructing a confidence rectangle for the naive approach, a confidence ellipse for the naive approach (assuming independence) and a confidence ellipse for the bivariate approach.  This is reported in table 4 of the main manuscript.
 
-The "Naive_GLM_vs_mvmeta_joint_coverage_calculate_area_of_ellipse" calculates the area of the confidence ellipses using the naive and bivariate approach.  This is reported in supplementary table 1.
+The "Naive_GLM_vs_mvmeta_joint_coverage_calculate_area_of_ellipse.do" calculates the area of the confidence ellipses using the naive and bivariate approach.  This is reported in supplementary table 1.
 
